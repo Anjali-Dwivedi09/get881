@@ -6,6 +6,6 @@ public class Calc {
 		}
 	
 	public void diff(int n, int m){
-		System.out.println("diff="+(n-m));
+		System.out.println("difference="+(n-m));
 		}
 }
